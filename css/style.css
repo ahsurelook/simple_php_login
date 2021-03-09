@@ -1,0 +1,156 @@
+body nav{
+   background: white;
+   width: 75%;
+   margin: 5px auto;
+   border: 1px solid black;
+   display: flex;
+
+}
+
+body nav a{
+   flex-direction: row;
+   padding: 10px 40px;
+}
+body nav a:hover{
+   background: blue;
+   color: white;
+}
+
+
+
+footer{
+   border: 3px solid black;
+   text-align: center;
+}
+
+div.jim{
+   color;green;
+   background: purple;
+
+   width: 240px;
+   margin: 0 auto;
+}
+
+div.jim form input{
+   padding: 5px;
+   margin: 10px 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+   padding-top: 40px;
+   padding-bottom: 40px;
+   background-color: #FFFFFF;
+}
+
+p{
+   font-weight: bold;
+}
+
+.form-signin {
+   max-width: 330px;
+   padding: 15px;
+   margin: 0 auto;
+   color: #017572;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+   margin-bottom: 10px;
+}
+
+.form-signin .checkbox {
+   font-weight: normal;
+}
+
+.form-signin .form-control {
+   position: relative;
+   height: auto;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   padding: 10px;
+   font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+   z-index: 2;
+}
+
+.form-signin input[type="email"] {
+   margin-bottom: -1px;
+   border-bottom-right-radius: 0;
+   border-bottom-left-radius: 0;
+   border-color:#017572;
+}
+
+.form-signin input[type="password"] {
+   margin-bottom: 10px;
+   border-top-left-radius: 0;
+   border-top-right-radius: 0;
+   border-color:#017572;
+}
+
+h2{
+   text-align: center;
+   color: #017572;
+         }*/
